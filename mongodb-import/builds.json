@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Budget 1080p Gaming Build",
+    "useCase": "Gaming",
+    "components": [
+      {
+        "category": "CPU",
+        "name": "AMD Ryzen 5 7600",
+        "price": 18999
+      },
+      {
+        "category": "GPU",
+        "name": "NVIDIA RTX 4060 8GB",
+        "price": 29999
+      },
+      {
+        "category": "Motherboard",
+        "name": "B650 Wi-Fi (AM5)",
+        "price": 15999
+      },
+      {
+        "category": "Memory",
+        "name": "32GB DDR5 (2\u00d716GB)",
+        "price": 8499
+      },
+      {
+        "category": "Storage",
+        "name": "1TB NVMe Gen4 SSD",
+        "price": 5999
+      },
+      {
+        "category": "Cooling",
+        "name": "Air cooler \u2014 tower",
+        "price": 2499
+      },
+      {
+        "category": "Case",
+        "name": "Mid-tower airflow case",
+        "price": 4999
+      },
+      {
+        "category": "PSU",
+        "name": "650W 80+ Gold",
+        "price": 6999
+      }
+    ],
+    "total": 93892,
+    "notes": "Illustrative sample data. Check compatibility and current prices before purchasing.",
+    "createdAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    },
+    "_id": {
+      "$oid": "672000000000000000000002"
+    },
+    "user": {
+      "$oid": "672000000000000000000001"
+    },
+    "updatedAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    }
+  },
+  {
+    "name": "1440p Performance Build",
+    "useCase": "Creator",
+    "components": [
+      {
+        "category": "CPU",
+        "name": "AMD Ryzen 7 7800X3D",
+        "price": 36999
+      },
+      {
+        "category": "GPU",
+        "name": "NVIDIA RTX 4070 SUPER 12GB",
+        "price": 59999
+      },
+      {
+        "category": "Motherboard",
+        "name": "B650 Wi-Fi (AM5)",
+        "price": 15999
+      },
+      {
+        "category": "Memory",
+        "name": "32GB DDR5 (2\u00d716GB)",
+        "price": 8499
+      },
+      {
+        "category": "Storage",
+        "name": "2TB NVMe Gen4 SSD",
+        "price": 9999
+      },
+      {
+        "category": "Cooling",
+        "name": "240mm liquid cooler",
+        "price": 6499
+      },
+      {
+        "category": "Case",
+        "name": "Premium panoramic case",
+        "price": 8999
+      },
+      {
+        "category": "PSU",
+        "name": "850W 80+ Gold",
+        "price": 11999
+      }
+    ],
+    "total": 158992,
+    "notes": "Illustrative sample data. Confirm power, dimensions, socket, and memory compatibility.",
+    "createdAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    },
+    "_id": {
+      "$oid": "672000000000000000000003"
+    },
+    "user": {
+      "$oid": "672000000000000000000001"
+    },
+    "updatedAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    }
+  }
+]

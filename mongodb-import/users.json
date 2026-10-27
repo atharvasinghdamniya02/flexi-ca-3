@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "672000000000000000000001"
+    },
+    "name": "CustomBits Demo User",
+    "email": "demo@example.com",
+    "passwordHash": "$2b$10$/VJv/Uqwwucl07LHmzYfi./oqUn3I0yMGXDgXeK58Sj69jbgPkRbe",
+    "createdAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-27T00:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+CustomBits — START HERE
+
+FASTEST WAY TO OPEN THE DESIGN:
+1. Extract this ZIP completely.
+2. Double-click OPEN-CustomBits.bat.
+3. If Windows asks what app to use, choose Google Chrome.
+   You can also right-click CustomBits-START-HERE.html → Open with → Google Chrome.
+
+This standalone website does not need npm, Node.js or MongoDB just to open.
+It includes:
+- Detailed responsive dark hardware-lab design with lime accents
+- Custom PC tower illustration and animated halftone wordmark footer based on the supplied design
+- Live component selector and estimated total
+- Hardware library with category filters and search
+- PC vs PS5 vs Xbox comparison
+- Six detailed hardware guides
+- Hardware evaluation modals and trade-offs
+- Browser-local saved builds, load/delete, JSON export
+- Community note form stored locally in this browser
+- Mobile navigation
+
+MONGODB COMPASS:
+Official Compass download: https://www.mongodb.com/try/download/compass
+MongoDB Community Server: https://www.mongodb.com/try/download/community
+
+Compass URI: mongodb://127.0.0.1:27017
+Backend .env URI: MONGODB_URI=mongodb://127.0.0.1:27017/custombits
+
+TO RUN WITH LIVE MONGODB: install Node.js 18+ and MongoDB Community Server, start the MongoDB service, then double-click RUN-CUSTOMBITS-FULLSTACK.bat. The standalone HTML login is only a browser demo.
+
+To seed Compass, follow mongodb-import/README-MONGODB.txt.
+Note: the static HTML demo uses browser localStorage. MongoDB imports seed example data but do not automatically connect the static page to the database. The React/Express app is included in client/ and server/.
